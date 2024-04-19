@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\AutoDecisions\bin\Debug\net6.0\AutoDecisions.exe
+C:\Users\MCA\source\repos\AutoDecisions\bin\Debug\net6.0\AutoDecisions.deps.json
+C:\Users\MCA\source\repos\AutoDecisions\bin\Debug\net6.0\AutoDecisions.runtimeconfig.json
+C:\Users\MCA\source\repos\AutoDecisions\bin\Debug\net6.0\AutoDecisions.dll
+C:\Users\MCA\source\repos\AutoDecisions\bin\Debug\net6.0\AutoDecisions.pdb
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.AssemblyInfo.cs
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.dll
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\refint\AutoDecisions.dll
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.pdb
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\AutoDecisions.genruntimeconfig.cache
+C:\Users\MCA\source\repos\AutoDecisions\obj\Debug\net6.0\ref\AutoDecisions.dll
